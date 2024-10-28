@@ -1,6 +1,6 @@
 h1 {
    margin: 0;
-   color:white;
+   color:beige;
    font-family:Verdana, Geneva, Tahoma, sans-serif;
    background-color:darkred;
    padding: 40px;
@@ -42,7 +42,6 @@ h2{
 
 p {
     text-indent: 15px;
-    max-width: 600px;
     margin: 0 auto;
     padding: 20px;
     font-size: medium;
@@ -51,5 +50,5 @@ p {
 
 section {
     display: grid;
-    grid-template-columns: 75% 25%;
+    grid-template-columns: 90% 10%;
 }
